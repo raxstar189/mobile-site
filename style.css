@@ -1,0 +1,208 @@
+html
+{
+    height: 900px;
+    width: 350px;
+    border: 1px solid grey;
+   
+}
+body
+{
+    background-color:  hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+    margin: 0px;
+}
+
+.mainbody
+{
+    display: inline-block;
+    position: relative;
+    width: 275px;
+    height: 690px;
+    top: 40px;
+    left:36px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 7px rgba(128, 128, 128, 0.753);
+}
+
+.firstsection
+{
+background-color: #fff;
+height:230px ;
+border-top-left-radius:5px ;
+border-top-right-radius:5px ;
+padding-left: 15px;
+padding-top: 15px;
+text-align: left;
+text-align: left;
+
+
+}
+.secondsection
+{
+    height:215px ;
+    background-color: hsl(179, 50%, 50%);
+    padding-left: 15px;
+
+}
+.thirdsection
+{
+    height:230px ;
+    background-color: hsl(179, 48%, 64%);
+    border-bottom-left-radius:5px ;
+    border-bottom-right-radius: 5px;
+    padding-left: 15px;
+    text-shadow: 1px 1px 2px grey;
+}
+.sec1p1
+{
+    margin-top: 0px;
+    color:  hsl(179, 62%, 43%);
+    font-weight: 700;
+    font-size: 17px;
+}
+.sec2p1
+{
+    margin-top: 0px;
+    color: white;
+    font-weight: 700;
+    padding-top: 15px;
+}
+.sec3p1
+{
+    margin-top: 0px;
+}
+
+
+.sec1p2
+{
+    color: hsl(71, 92%, 49%);
+    font-size: 14px;
+    font-weight: 700;
+
+}
+.sec2p2
+{
+  color:hsl(204, 43%, 93%);
+  font-size: 12px;
+  display: inline-block;
+}
+.sec3p1
+{
+   color: white;
+   font-weight: 700;
+   padding-top: 15px;
+}
+.sec3p2
+{
+   line-height: 22px;
+   color:white;
+   font-size: 12px;
+}
+.sec1p3
+{
+    color: hsl(218, 22%, 67%);
+    font-size: 13px;
+    line-height: 24px;
+}
+.sec2p3
+{
+     color: white;
+     font-size: 14px;
+     position: relative;
+     bottom: 15px;
+
+    }
+.sec2p4
+{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    position: relative;
+    left: 20px;
+    background-color:  hsl(71, 73%, 54%);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 0 1px 10px rgb(104, 103, 103);
+}
+.dollar
+{
+    color: white;
+    font-size: 30px;
+}
+.navigation
+{
+    height: 50px;
+    width: 100%;
+    background-color: hsl(179, 48%, 64%);
+    box-shadow: -1px 0px 8px grey;
+    
+}
+.titleimg
+{
+    position: absolute;
+    top: 9px;
+    left: 15px;
+}
+.community
+{
+    position: absolute;
+    right: 20px;
+    top: 180px;
+    height: 40px;
+
+}
+.subscribe
+{
+  position: absolute;
+  right: 10px;
+  height: 50px;
+
+}
+.whyus
+{
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+    height: 40px;
+
+}
+.titlename
+{
+    color: white;
+    position: absolute;
+    left: 60px;
+    top: -1PX;
+    font-family: 'Jockey One', sans-serif;
+    text-shadow: 0PX 1PX 2PX GREY;
+}
+.socialicon
+{
+    position: absolute;
+    left: 270px;
+    top: 17px;
+    color: rgba(15, 255, 183, 0.795);
+    font-size: 21px;
+}
+
+.footer
+{
+    height: 75px;
+    width: 100%;
+    position:relative;
+    top: 60px;
+    background-color: white;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    color: hsl(179, 62%, 43%);
+    box-shadow: -1px -1px 5px grey;
+
+}
+.signup
+{
+    color: white;
+    text-decoration: none;
+}
